@@ -85,6 +85,6 @@ export default {
   loading: 'بارگذاری...',
   infiniteScroll: {
     loadMore: 'بارگذاری بیشتر',
-    empty: 'دیگر وجود ندارد',
+    empty: 'چیزی وجود ندارد',
   },
 }
